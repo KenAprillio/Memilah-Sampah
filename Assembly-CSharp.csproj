@@ -57,6 +57,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\GerakPindah.cs" />
+    <Compile Include="Assets\Scripts\MunculkanSampah.cs" />
+    <Compile Include="Assets\Scripts\BatasAkhirSampah.cs" />
+    <Compile Include="Assets\Scripts\Data.cs" />
+    <Compile Include="Assets\Scripts\DeteksiSampah.cs" />
+    <Compile Include="Assets\Scripts\GameOver.cs" />
+    <Compile Include="Assets\Scripts\Keluar.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
